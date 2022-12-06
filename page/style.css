@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+input{
+    width:50vw;
+    max-width: 240px;
+    padding:1vh;
+}
+
+
+
+.options{
+    display: grid;
+    justify-content: center;  
+}
+
+.border{
+    box-shadow: 0px 0px 12px 0px white;
+    border:1px solid white;
+}
